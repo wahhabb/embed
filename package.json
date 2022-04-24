@@ -1,0 +1,19 @@
+{
+  "name": "embed",
+  "version": "1.0.0",
+  "description": "Embed svelte component test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wahhab",
+  "license": "ISC",
+  "dependencies": {
+    "npm": "^8.5.4"
+  },
+  "devDependencies": {
+    "@rollup/plugin-node-resolve": "^13.1.3",
+    "rollup-plugin-svelte": "^7.1.0",
+    "svelte": "^3.46.4"
+  }
+}
